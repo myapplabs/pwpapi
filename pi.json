@@ -1,27 +1,102 @@
 {
-    "products": {
+    "incidents": {
       "data": {
         "items": [{
-          "id": "GGOEAFKA087499",
-          "name": "Coffee Shop 1",
-          "address": "Show your Android pride by placing these 8 fun stickers on your technology products or accessories!",
-          "city": "<p>8 Android stickers</p>\n<p>White colored sticker sheet</p>",
-          "state": "2.99",
-          "zip": "Android Small Removable Sticker Sheet, android stickers, sticker sheets, removable sticker sheets, small sticker sheet, android small sticker sheets, Android Sheet",
-          "country": "Android+Small+Removable+Sticker+Sheet",
-          "imageUrl": "accessories",
-          "description": "accessories"
+          "incidentId": "2782540",
+          "date": "December 20, 2023",
+          "address": "Hwy 328 and Co Rd 148",
+          "cityOrCounty": "Corning",
+          "state": "Arkansas",
+          "country": "USA",
+          "victimsKilled": 0,
+          "victimsInjured": 1,
+          "suspectsInjured": 0,
+          "suspectsKilled": 0,
+          "suspectectsArreted": 0,
+          "numberOfGunsInvolved": 1,
+          "notes": "",
+          "sources": ["https://www.kait8.com/2023/12/19/sheriffs-office-investigating-shooting/"]
         },{
-            "id": "GGOEAFKA087498",
-            "name": "Toy Shop 2",
-            "address": "Show your Android pride by placing these 8 fun stickers on your technology products or accessories!",
-            "city": "<p>8 Android stickers</p>\n<p>White colored sticker sheet</p>",
-            "state": "2.99",
-            "zip": "Android Small Removable Sticker Sheet, android stickers, sticker sheets, removable sticker sheets, small sticker sheet, android small sticker sheets, Android Sheet",
-            "country": "Android+Small+Removable+Sticker+Sheet",
-            "imageUrl": "accessories",
-            "description": "accessories"  
-        }]
+            "incidentId": "2782472",
+            "date": "December 19, 2023",
+            "address": "500 block of 54th St",
+            "cityOrCounty": "Savannah",
+            "state": "Georgia",
+            "country": "USA",
+            "victimsKilled": 0,
+            "victimsInjured": 1,
+            "suspectsInjured": 0,
+            "suspectsKilled": 0,
+            "suspectsArreted": 0,
+            "numberOfGunsInvolved": 1,
+            "notes": "",
+            "sources": ["https://twitter.com/SavPolice/status/1737315710357897315"]
+          },
+          {
+            "incidentId": "2782470",
+            "date": "December 19, 2023",
+            "address": "Illinois Ave",
+            "cityOrCounty": "Shreveport",
+            "state": "Louisiana",
+            "country": "USA",
+            "victimsKilled": 0,
+            "victimsInjured": 1,
+            "suspectsInjured": 0,
+            "suspectsKilled": 0,
+            "suspectsArreted": 0,
+            "numberOfGunsInvolved": 1,
+            "notes": "",
+            "sources": ["https://www.ksla.com/2023/12/19/man-shot-while-walking-illinois-ave/"]
+          },
+          {
+            "incidentId": "2782119",
+            "date": "December 19, 2023",
+            "address": "1808 15th Ave N",
+            "cityOrCounty": "Nashvielle",
+            "state": "Tennessee",
+            "country": "USA",
+            "victimsKilled": 1,
+            "victimsInjured": 0,
+            "suspectsInjured": 0,
+            "suspectsKilled": 0,
+            "suspectsArreted": 0,
+            "numberOfGunsInvolved": 1,
+            "notes": "North Nashville, man shot in alley knocked on door of nearby apartment for help, later died",
+            "sources": ["https://www.wsmv.com/2023/12/19/man-shot-killed-north-nashville/", "https://fox17.com/news/local/one-person-critically-hurt-in-north-nashville-shooting"]
+          },
+          {
+            "incidentId": "2782463",
+            "date": "December 19, 2023",
+            "address": "1700 block of S 32nd St",
+            "cityOrCounty": "Louisville",
+            "state": "Kentucky",
+            "country": "USA",
+            "victimsKilled": 1,
+            "victimsInjured": 0,
+            "suspectsInjured": 0,
+            "suspectsKilled": 0,
+            "suspectsArreted": 0,
+            "numberOfGunsInvolved": 1,
+            "notes": "near Dr William G Weathers Dr and Wilson Ave, woman shot later died, another woman stabbed showed up at hospital",
+            "sources": ["https://www.wdrb.com/news/crime-reports/1-dead-1-injured-after-shooting-stabbing-in-louisvilles-park-duvalle-neighborhood/article_93723c1e-9ee3-11ee-a500-ff3aecc3157c.html", "https://www.wave3.com/2023/12/20/woman-dead-after-shooting-park-duvalle-neighborhood/"]
+          },
+          {
+            "incidentId": "2782459",
+            "date": "December 19, 2023",
+            "address": "1300 block of S Floyd St",
+            "cityOrCounty": "Louisville",
+            "state": "Kentucky",
+            "country": "USA",
+            "victimsKilled": 0,
+            "victimsInjured": 1,
+            "suspectsInjured": 0,
+            "suspectsKilled": 0,
+            "suspectsArreted": 0,
+            "numberOfGunsInvolved": 1,
+            "notes": "Man shot",
+            "sources": ["https://www.wdrb.com/news/crime-reports/man-hospitalized-after-shooting-in-old-louisville-police-say/article_463fabac-9ee3-11ee-8e7d-d3391aaa4e66.html", "https://www.wave3.com/2023/12/20/man-hospital-after-shooting-old-louisville/"]
+          }
+        ]
         }
     }
 }
