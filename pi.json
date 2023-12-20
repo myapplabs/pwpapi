@@ -1,0 +1,27 @@
+{
+    "products": {
+      "data": {
+        "items": [{
+          "id": "GGOEAFKA087499",
+          "name": "Coffee Shop 1",
+          "address": "Show your Android pride by placing these 8 fun stickers on your technology products or accessories!",
+          "city": "<p>8 Android stickers</p>\n<p>White colored sticker sheet</p>",
+          "state": "2.99",
+          "zip": "Android Small Removable Sticker Sheet, android stickers, sticker sheets, removable sticker sheets, small sticker sheet, android small sticker sheets, Android Sheet",
+          "country": "Android+Small+Removable+Sticker+Sheet",
+          "imageUrl": "accessories",
+          "description": "accessories"
+        },{
+            "id": "GGOEAFKA087498",
+            "name": "Toy Shop 2",
+            "address": "Show your Android pride by placing these 8 fun stickers on your technology products or accessories!",
+            "city": "<p>8 Android stickers</p>\n<p>White colored sticker sheet</p>",
+            "state": "2.99",
+            "zip": "Android Small Removable Sticker Sheet, android stickers, sticker sheets, removable sticker sheets, small sticker sheet, android small sticker sheets, Android Sheet",
+            "country": "Android+Small+Removable+Sticker+Sheet",
+            "imageUrl": "accessories",
+            "description": "accessories"  
+        }]
+        }
+    }
+}
