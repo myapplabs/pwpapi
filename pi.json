@@ -3,12 +3,15 @@
       "data": {
         "items": [
             {
-                "shopId": "2782540",
+                "id": "2782540",
                 "name": "Cafe Sua",
                 "address": "Hwy 328 and Co Rd 148",
-                "cityOrCounty": "Corning",
+                "city": "Corning",
                 "state": "Arkansas",
+                "zip:": "98960",
                 "country": "USA",
+                "phoneNumber": "333333333",
+                "website": "www.dsdsd.com",
                 "imgUrl": ""
             },
             ]
