@@ -1,6 +1,4 @@
-{
-      "data": {
-        "shops": [
+ [
             {
                 "id": "2782540",
                 "name": "Cafe Sua",
@@ -13,6 +11,5 @@
                 "website": "www.dsdsd.com",
                 "imgUrl": ""
             },
-            ]
-        }
-}
+]
+
