@@ -4,7 +4,7 @@
                     "Content-type” : “application/json"
     },
     "body": {
-        "stores": [
+        "stores": 
             {
                 "id": "2782540",
                 "name": "Cafe Sua",
@@ -14,7 +14,7 @@
                 "zip:": "98960",
                 "country": "USA"
             }
-        ]
+        
     }
 }
 
