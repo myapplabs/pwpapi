@@ -4,11 +4,20 @@
 "shops": [
 {
 "id": "2782540",
-"name": "Cafe Sua",
-"address": "Hwy 328 and Co Rd 148",
-"city": "Corning",
-"state": "Arkansas",
-"zip": "98960",
+"name": "Yukari's Pizza",
+"address": "3GR3+529, Gumamela St.",
+"city": "Tugbok, Davao City",
+"state": "Davao del Sur",
+"zip": "",
+"country": "Philippines"
+},
+{
+"id": "2782544",
+"name": "Prestige Cuts Barbershop",
+"address": "1205 E Debbie Ln Ste 115",
+"city": "Mansfield",
+"state": "Texas",
+"zip": "76063",
 "country": "USA"
 }
 ]
