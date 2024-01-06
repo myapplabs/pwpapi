@@ -1,20 +1,16 @@
-{"response": {
-    "status": 200,
-    "headers": {
-                    "Content-type” : “application/json"
-    },
-    "body": {
-        "stores": 
-            [{
-                "id": "2782540",
-                "name": "Cafe Sua",
-                "address": "Hwy 328 and Co Rd 148",
-                "city": "Corning",
-                "state": "Arkansas",
-                "zip:": "98960",
-                "country": "USA"
-            }]
-    }
-}}
-
+{
+"status": "ok",
+"totalResults": 36,
+-"shops": [
+-{
+"id": "2782540",
+"name": "Cafe Sua",
+"address": "Hwy 328 and Co Rd 148",
+"city": "Corning",
+"state": "Arkansas",
+"zip:": "98960",
+"country": "USA"
+},
+]
+}
 
