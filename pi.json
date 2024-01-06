@@ -5,7 +5,7 @@
     },
     "body": {
         "stores": 
-            {
+            { [{
                 "id": "2782540",
                 "name": "Cafe Sua",
                 "address": "Hwy 328 and Co Rd 148",
@@ -13,6 +13,7 @@
                 "state": "Arkansas",
                 "zip:": "98960",
                 "country": "USA"
+            }]
             }
         
     }
