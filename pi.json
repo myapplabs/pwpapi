@@ -22,8 +22,8 @@
 },
   {
 "id": "2782545",
-"name": "Mai Trang Hd pi Coffee",
-"address": "19 han Thuyen Street Quarter 4, An Bihn Ward",
+"name": "Tiem Ca Phe",
+"address": "19 Han Thuyen Street Quarter 4, An Bihn Ward",
 "city": "Bien Hoa",
 "state": "Dong Nai",
 "zip": "",
@@ -95,6 +95,15 @@
   {
 "id": "2782553",
 "name": "Hu Tiu Mi",
+"address": "521 Nguyen Van Troi",
+"city": "Hiep Thanh Ward, City Ton",
+"state": "Binh Doung",
+"zip": "",
+"country": "Vietnam"
+},
+  {
+"id": "2782554",
+"name": "Tiem Ca Phe",
 "address": "521 Nguyen Van Troi",
 "city": "Hiep Thanh Ward, City Ton",
 "state": "Binh Doung",
