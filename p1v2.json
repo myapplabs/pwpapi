@@ -1,0 +1,414 @@
+{
+    "success": true,
+    "count": 15,
+    "pagination": {},
+    "data": [
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -97.12037,
+                    32.60464
+                ],
+                "formattedAddress": "1205 E Debbie Ln, Ste 115, Mansfield, TX 76063-3350, US",
+                "street": "1205 E Debbie Ln, Ste 115",
+                "city": "Mansfield",
+                "state": "TX",
+                "zipcode": "76063-3350",
+                "country": "US"
+            },
+            "_id": "65b48b93266ec38358dbdf99",
+            "name": "Prestige Cuts Barbershop",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-01-27T04:50:27.434Z",
+            "slug": "prestige-cuts-barbershop",
+            "__v": 0,
+            "products": [],
+            "id": "65b48b93266ec38358dbdf99"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    105.76521,
+                    10.29034
+                ],
+                "formattedAddress": "2 Đường Nguyễn Sinh Sắc, Sa Đéc, , VN",
+                "street": "2 Đường Nguyễn Sinh Sắc",
+                "city": "Sa Đéc",
+                "state": "",
+                "zipcode": "",
+                "country": "VN"
+            },
+            "_id": "65b48aff266ec38358dbdf8e",
+            "name": "Voi Con",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-01-27T04:47:59.382Z",
+            "slug": "voi-con",
+            "__v": 0,
+            "products": [],
+            "id": "65b48aff266ec38358dbdf8e"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    106.73267,
+                    10.7267
+                ],
+                "formattedAddress": "7 Đường Huỳnh Tấn Phát, Quận 7, 72908, VN",
+                "street": "7 Đường Huỳnh Tấn Phát",
+                "city": "Quận 7",
+                "state": "",
+                "zipcode": "72908",
+                "country": "VN"
+            },
+            "_id": "65b48ac9266ec38358dbdf8a",
+            "name": "Shop Quynh Chi",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-01-27T04:47:05.354Z",
+            "slug": "shop-quynh-chi",
+            "__v": 0,
+            "products": [],
+            "id": "65b48ac9266ec38358dbdf8a"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    106.05991,
+                    20.66888
+                ],
+                "formattedAddress": "39 Đường Ngô Tất Tố, Hưng Yên, , VN",
+                "street": "39 Đường Ngô Tất Tố",
+                "city": "Hưng Yên",
+                "state": "",
+                "zipcode": "",
+                "country": "VN"
+            },
+            "_id": "65b48a8c266ec38358dbdf86",
+            "name": "Phuc Voung Pizza",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-01-27T04:46:04.332Z",
+            "slug": "phuc-voung-pizza",
+            "__v": 0,
+            "products": [],
+            "id": "65b48a8c266ec38358dbdf86"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    107.60502,
+                    16.46461
+                ],
+                "formattedAddress": "12 Đường Trần Văn Ơn, Huế, 49106, VN",
+                "street": "12 Đường Trần Văn Ơn",
+                "city": "Huế",
+                "state": "",
+                "zipcode": "49106",
+                "country": "VN"
+            },
+            "_id": "65b48a51266ec38358dbdf82",
+            "name": "Coffee Co Do",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-01-27T04:45:05.525Z",
+            "slug": "coffee-co-do",
+            "__v": 0,
+            "products": [],
+            "id": "65b48a51266ec38358dbdf82"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    106.69596,
+                    10.74521
+                ],
+                "formattedAddress": "81 Đường D4, Quận 7, 72912, VN",
+                "street": "81 Đường D4",
+                "city": "Quận 7",
+                "state": "",
+                "zipcode": "72912",
+                "country": "VN"
+            },
+            "_id": "65b48a15266ec38358dbdf7e",
+            "name": "Ladalat Tea & Coffee Him Lam",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-01-27T04:44:05.347Z",
+            "slug": "ladalat-tea-and-coffee-him-lam",
+            "__v": 0,
+            "products": [],
+            "id": "65b48a15266ec38358dbdf7e"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    105.56693,
+                    21.30115
+                ],
+                "formattedAddress": "50 Phố Mạc Đĩnh Chi, Vĩnh Yên, 15113, VN",
+                "street": "50 Phố Mạc Đĩnh Chi",
+                "city": "Vĩnh Yên",
+                "state": "",
+                "zipcode": "15113",
+                "country": "VN"
+            },
+            "_id": "65b489d8266ec38358dbdf7a",
+            "name": "Mini Mart Thuy Nga",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-01-27T04:43:04.017Z",
+            "slug": "mini-mart-thuy-nga",
+            "__v": 0,
+            "products": [],
+            "id": "65b489d8266ec38358dbdf7a"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    108.49723,
+                    11.94658
+                ],
+                "formattedAddress": "209 Đường Tự Phước, Đà Lạt, 66118, VN",
+                "street": "209 Đường Tự Phước",
+                "city": "Đà Lạt",
+                "state": "",
+                "zipcode": "66118",
+                "country": "VN"
+            },
+            "_id": "65b4899c266ec38358dbdf76",
+            "name": "Homestay Ngoi Nha Ky Uc",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-01-27T04:42:04.943Z",
+            "slug": "homestay-ngoi-nha-ky-uc",
+            "__v": 0,
+            "products": [],
+            "id": "65b4899c266ec38358dbdf76"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    106.66358,
+                    10.99862
+                ],
+                "formattedAddress": "521 Đường Nguyễn Văn Trỗi, Thủ Dầu Một, 75111, VN",
+                "street": "521 Đường Nguyễn Văn Trỗi",
+                "city": "Thủ Dầu Một",
+                "state": "",
+                "zipcode": "75111",
+                "country": "VN"
+            },
+            "_id": "65b4894b266ec38358dbdf72",
+            "name": "Hu Tiu Mi",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-01-27T04:40:43.254Z",
+            "slug": "hu-tiu-mi",
+            "__v": 0,
+            "products": [],
+            "id": "65b4894b266ec38358dbdf72"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    106.66358,
+                    10.99862
+                ],
+                "formattedAddress": "521 Đường Nguyễn Văn Trỗi, Thủ Dầu Một, 75111, VN",
+                "street": "521 Đường Nguyễn Văn Trỗi",
+                "city": "Thủ Dầu Một",
+                "state": "",
+                "zipcode": "75111",
+                "country": "VN"
+            },
+            "_id": "65b488fa266ec38358dbdf6e",
+            "name": "Tiem Ca Phe",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-01-27T04:39:22.057Z",
+            "slug": "tiem-ca-phe",
+            "__v": 0,
+            "products": [],
+            "id": "65b488fa266ec38358dbdf6e"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    105.79075,
+                    10.00557
+                ],
+                "formattedAddress": "2 Đường Số 4, Quận Cái Răng, 94909, VN",
+                "street": "2 Đường Số 4",
+                "city": "Quận Cái Răng",
+                "state": "",
+                "zipcode": "94909",
+                "country": "VN"
+            },
+            "_id": "65b488ab266ec38358dbdf6a",
+            "name": "Cafe & An Vat TBH",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-01-27T04:38:03.363Z",
+            "slug": "cafe-and-an-vat-tbh",
+            "__v": 0,
+            "products": [],
+            "id": "65b488ab266ec38358dbdf6a"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    106.69847,
+                    10.78732
+                ],
+                "formattedAddress": "94A Đường Nguyễn Đình Chiểu, Quận 1, 71007, VN",
+                "street": "94A Đường Nguyễn Đình Chiểu",
+                "city": "Quận 1",
+                "state": "",
+                "zipcode": "71007",
+                "country": "VN"
+            },
+            "_id": "65b4886a266ec38358dbdf66",
+            "name": "Pho Hoang",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-01-27T04:36:58.774Z",
+            "slug": "pho-hoang",
+            "__v": 0,
+            "products": [],
+            "id": "65b4886a266ec38358dbdf66"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    105.77732,
+                    10.04324
+                ],
+                "formattedAddress": "Đường Hùng Vương, Quận Ninh Kiều, , VN",
+                "street": "Đường Hùng Vương",
+                "city": "Quận Ninh Kiều",
+                "state": "",
+                "zipcode": "",
+                "country": "VN"
+            },
+            "_id": "65b48827266ec38358dbdf62",
+            "name": "Dung Sy Store",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-01-27T04:35:51.807Z",
+            "slug": "dung-sy-store",
+            "__v": 0,
+            "products": [],
+            "id": "65b48827266ec38358dbdf62"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    103.95998,
+                    10.21537
+                ],
+                "formattedAddress": "1 Đường Trần Hưng Đạo, Phú Quốc, 92506, VN",
+                "street": "1 Đường Trần Hưng Đạo",
+                "city": "Phú Quốc",
+                "state": "",
+                "zipcode": "92506",
+                "country": "VN"
+            },
+            "_id": "65b4861f09361e32c62904c6",
+            "name": "Cua Hang Madame Tinh Store",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-01-27T04:27:11.776Z",
+            "slug": "cua-hang-madame-tinh-store",
+            "__v": 0,
+            "products": [],
+            "id": "65b4861f09361e32c62904c6"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    125.56602,
+                    7.06308
+                ],
+                "formattedAddress": "3rd St, Davao City, PH-11 8000, PH",
+                "street": "3rd St",
+                "city": "Davao City",
+                "state": "PH-11",
+                "zipcode": "8000",
+                "country": "PH"
+            },
+            "_id": "65898b6050326be20c2fab0c",
+            "name": "Yukari's Pizza Station",
+            "shopType": "Restaurant",
+            "photo": "no-photo.jpg",
+            "verified": true,
+            "createdAt": "2023-12-25T14:02:08.183Z",
+            "slug": "yukari's-pizza-station",
+            "__v": 0,
+            "averageCost": 60,
+            "products": [
+                {
+                    "_id": "659b7671c6b6154122c3d850",
+                    "name": "pizza pp",
+                    "price": 10,
+                    "shop": "65898b6050326be20c2fab0c",
+                    "createdAt": "2024-01-08T04:13:37.484Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "659b7676c6b6154122c3d856",
+                    "name": "pizza pp",
+                    "price": 102,
+                    "shop": "65898b6050326be20c2fab0c",
+                    "createdAt": "2024-01-08T04:13:42.169Z",
+                    "__v": 0
+                }
+            ],
+            "id": "65898b6050326be20c2fab0c"
+        }
+    ]
+}
