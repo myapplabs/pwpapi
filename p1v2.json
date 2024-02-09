@@ -1,8 +1,34 @@
 {
     "success": true,
-    "count": 77,
+    "count": 78,
     "pagination": {},
     "data": [
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -122.22802,
+                    47.20391
+                ],
+                "formattedAddress": "1201 Valley Ave E, Suite 109, Sumner, WA 98390-3225, US",
+                "street": "1201 Valley Ave E, Suite 109",
+                "city": "Sumner",
+                "state": "WA",
+                "zipcode": "98390-3225",
+                "country": "US"
+            },
+            "_id": "65c62162ab4fbe5e7fac4c0a",
+            "name": "Untamed Coffee & Muddy Soda",
+            "shopType": "Other",
+            "photo": "https://lh3.googleusercontent.com/p/AF1QipOf-9pnTUABp6RwbJwkwKOcGEbs_R9x95y9aZiK=s680-w680-h510",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-09T12:58:10.520Z",
+            "slug": "untamed-coffee-and-muddy-soda",
+            "__v": 0,
+            "products": [],
+            "id": "65c62162ab4fbe5e7fac4c0a"
+        },
         {
             "location": {
                 "type": "Point",
