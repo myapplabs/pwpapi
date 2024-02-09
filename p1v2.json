@@ -1,8 +1,34 @@
 {
     "success": true,
-    "count": 67,
+    "count": 68,
     "pagination": {},
     "data": [
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    105.13742,
+                    9.93116
+                ],
+                "formattedAddress": "QL.61, Huyện Châu Thành, 91712, VN",
+                "street": "QL.61",
+                "city": "Huyện Châu Thành",
+                "state": "",
+                "zipcode": "91712",
+                "country": "VN"
+            },
+            "_id": "65c60684e3f2465ccbf07653",
+            "name": "Gà Ủ Muối - Winnie Food",
+            "shopType": "Repair Shop",
+            "photo": "https://lh3.googleusercontent.com/p/AF1QipNgkVDMXj3Lg7pQfu8j4-Xg32UEA0HAWT3zdLFH=s1360-w1360-h1020",
+            "verified": true,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-09T11:03:32.332Z",
+            "slug": "ga-u-muoi-winnie-food",
+            "__v": 0,
+            "products": [],
+            "id": "65c60684e3f2465ccbf07653"
+        },
         {
             "location": {
                 "type": "Point",
