@@ -1,8 +1,138 @@
 {
     "success": true,
-    "count": 68,
+    "count": 73,
     "pagination": {},
     "data": [
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    127.043692,
+                    37.172051
+                ],
+                "formattedAddress": "7 Yeogyesan-ro, Osan, Gyeonggi-do, South Korea",
+                "street": "",
+                "city": "Osan",
+                "state": "",
+                "zipcode": "",
+                "country": "KR"
+            },
+            "_id": "65c6104aab4fbe5e7fac4bed",
+            "name": "세교데시앙공인중개사",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-09T11:45:14.086Z",
+            "slug": "",
+            "__v": 0,
+            "products": [],
+            "id": "65c6104aab4fbe5e7fac4bed"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    107.86007,
+                    16.28084
+                ],
+                "formattedAddress": "166 Đường Lý Thánh Tông, Huyện Phú Lộc, 49806, VN",
+                "street": "166 Đường Lý Thánh Tông",
+                "city": "Huyện Phú Lộc",
+                "state": "",
+                "zipcode": "49806",
+                "country": "VN"
+            },
+            "_id": "65c60ea0ab4fbe5e7fac4be9",
+            "name": "Fohaco Happy Travel",
+            "shopType": "Other",
+            "photo": "https://fohaco.com/wp-content/uploads/2022/06/tour-dao-ngoc-1-ngay-1.png",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-09T11:38:08.848Z",
+            "slug": "fohaco-happy-travel",
+            "__v": 0,
+            "products": [],
+            "id": "65c60ea0ab4fbe5e7fac4be9"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -4.61539,
+                    36.66379
+                ],
+                "formattedAddress": "242 Camino del Comendador, Alhaurín de la Torre, AN 29130, ES",
+                "street": "242 Camino del Comendador",
+                "city": "Alhaurín de la Torre",
+                "state": "AN",
+                "zipcode": "29130",
+                "country": "ES"
+            },
+            "_id": "65c60c96ab4fbe5e7fac4be5",
+            "name": "Villas Del Alba",
+            "shopType": "Hotel",
+            "photo": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/304446509.jpg?k=7a3be85c084f7685663f67593976e5a9ad675c4f0bc92a6f496b867e2c28fb10&o=&hp=1",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-09T11:29:26.403Z",
+            "slug": "villas-del-alba",
+            "__v": 0,
+            "products": [],
+            "id": "65c60c96ab4fbe5e7fac4be5"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    105.63344,
+                    10.45595
+                ],
+                "formattedAddress": "TT. Mỹ An, Cao Lanh, Dong Thap 81000, Vietnam",
+                "street": "",
+                "city": "Cao Lãnh",
+                "state": "",
+                "zipcode": "",
+                "country": "VN"
+            },
+            "_id": "65c60acbab4fbe5e7fac4be1",
+            "name": "Công Ty TNHH Điện Lạnh Nguyễn Văn Dô",
+            "shopType": "Repair Shop",
+            "photo": "https://pbs.twimg.com/media/GFIqOGVbgAAV13v?format=jpg&name=medium",
+            "verified": true,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-09T11:21:47.641Z",
+            "slug": "cong-ty-tnhh-djien-lanh-nguyen-van-do",
+            "__v": 0,
+            "products": [],
+            "id": "65c60acbab4fbe5e7fac4be1"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    106.3687,
+                    10.37759
+                ],
+                "formattedAddress": "193 QL.50, Mỹ Tho, , VN",
+                "street": "193 QL.50",
+                "city": "Mỹ Tho",
+                "state": "",
+                "zipcode": "",
+                "country": "VN"
+            },
+            "_id": "65c6099dab4fbe5e7fac4bd5",
+            "name": "Quán KIM PI NETWORK",
+            "shopType": "Coffee Shop",
+            "photo": "https://pbs.twimg.com/media/GFIqOFlb0AAOc6h?format=jpg&name=large",
+            "verified": true,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-09T11:16:45.533Z",
+            "slug": "quan-kim-pi-network",
+            "__v": 0,
+            "products": [],
+            "id": "65c6099dab4fbe5e7fac4bd5"
+        },
         {
             "location": {
                 "type": "Point",
@@ -19,7 +149,7 @@
             },
             "_id": "65c60684e3f2465ccbf07653",
             "name": "Gà Ủ Muối - Winnie Food",
-            "shopType": "Repair Shop",
+            "shopType": "Food Stand",
             "photo": "https://lh3.googleusercontent.com/p/AF1QipNgkVDMXj3Lg7pQfu8j4-Xg32UEA0HAWT3zdLFH=s1360-w1360-h1020",
             "verified": true,
             "user": "65b482fa09361e32c62904bd",
