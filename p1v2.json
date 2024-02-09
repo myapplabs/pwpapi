@@ -1,8 +1,112 @@
 {
     "success": true,
-    "count": 73,
+    "count": 77,
     "pagination": {},
     "data": [
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    126.81885,
+                    37.175979
+                ],
+                "formattedAddress": "178-16 Imbangul-daero, Gwangsan-gu, Kwangju, South Korea",
+                "street": "",
+                "city": "Kwangju",
+                "state": "",
+                "zipcode": "",
+                "country": "KR"
+            },
+            "_id": "65c61e87ab4fbe5e7fac4c00",
+            "name": "목수다",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-09T12:45:59.881Z",
+            "slug": "",
+            "__v": 0,
+            "products": [],
+            "id": "65c61e87ab4fbe5e7fac4c00"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    127.461983,
+                    37.926
+                ],
+                "formattedAddress": "510-100 Baekdun-ro, Buk-myeon, Gapyeong-gun, Gyeonggi-do, South Korea",
+                "street": "",
+                "city": "",
+                "state": "",
+                "zipcode": "",
+                "country": "KR"
+            },
+            "_id": "65c61d8cab4fbe5e7fac4bfc",
+            "name": "꿈과사랑",
+            "shopType": "Hotel",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-09T12:41:48.589Z",
+            "slug": "",
+            "__v": 0,
+            "products": [],
+            "id": "65c61d8cab4fbe5e7fac4bfc"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    127.918095,
+                    37.323039
+                ],
+                "formattedAddress": "8 Haenggari 1-gil, Weonju, Gangwon-do, South Korea",
+                "street": "",
+                "city": "Wonju",
+                "state": "",
+                "zipcode": "",
+                "country": "KR"
+            },
+            "_id": "65c61c09ab4fbe5e7fac4bf8",
+            "name": "원주가구공단",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-09T12:35:21.863Z",
+            "slug": "",
+            "__v": 0,
+            "products": [],
+            "id": "65c61c09ab4fbe5e7fac4bf8"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    127.989116,
+                    38.107096
+                ],
+                "formattedAddress": "10-1 Jungang-gil, Yanggu-eup, Yanggu, Gangwon-do, South Korea",
+                "street": "",
+                "city": "Yanggu",
+                "state": "",
+                "zipcode": "",
+                "country": "KR"
+            },
+            "_id": "65c61237ab4fbe5e7fac4bf4",
+            "name": "닭다라닭닭",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-09T11:53:27.915Z",
+            "slug": "",
+            "__v": 0,
+            "products": [],
+            "id": "65c61237ab4fbe5e7fac4bf4"
+        },
         {
             "location": {
                 "type": "Point",
