@@ -1,8 +1,86 @@
 {
     "success": true,
-    "count": 64,
+    "count": 67,
     "pagination": {},
     "data": [
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    105.7746,
+                    19.81985
+                ],
+                "formattedAddress": "Đường Bà Triệu, Thanh Hóa, 40110, VN",
+                "street": "Đường Bà Triệu",
+                "city": "Thanh Hóa",
+                "state": "",
+                "zipcode": "40110",
+                "country": "VN"
+            },
+            "_id": "65c59389e3f2465ccbf0764c",
+            "name": "Sửa Xe Thanh Hóa",
+            "shopType": "Repair Shop",
+            "photo": "https://1.bp.blogspot.com/--RUpiojKBE4/WwfBBQw0y_I/AAAAAAAAOk0/SewLeh4kPA09lt5mPSyStfV0_BDo1HJAwCLcBGAs/s320/a1c9134677cd9993c0dc.jpg",
+            "verified": true,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-09T02:52:57.150Z",
+            "slug": "sua-xe-thanh-hoa",
+            "__v": 0,
+            "products": [],
+            "id": "65c59389e3f2465ccbf0764c"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    106.67609,
+                    10.76741
+                ],
+                "formattedAddress": "290A Lý Thái Tổ, Quận 3, 72419, VN",
+                "street": "290A Lý Thái Tổ",
+                "city": "Quận 3",
+                "state": "",
+                "zipcode": "72419",
+                "country": "VN"
+            },
+            "_id": "65c4652f790bd1424f6afaab",
+            "name": "MILK TEA PI NETWORK",
+            "shopType": "Coffee Shop",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-08T05:22:55.444Z",
+            "slug": "milk-tea-pi-network",
+            "__v": 0,
+            "products": [],
+            "id": "65c4652f790bd1424f6afaab"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    105.96836,
+                    21.36184
+                ],
+                "formattedAddress": ", Huyện Hiệp Hòa, 26906, VN",
+                "street": "",
+                "city": "Huyện Hiệp Hòa",
+                "state": "",
+                "zipcode": "26906",
+                "country": "VN"
+            },
+            "_id": "65c46115f87e3d990fe075eb",
+            "name": "TRẠM DỊCH VỤ NƯỚC SẠCH",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-08T05:05:25.170Z",
+            "slug": "tram-dich-vu-nuoc-sach",
+            "__v": 0,
+            "products": [],
+            "id": "65c46115f87e3d990fe075eb"
+        },
         {
             "location": {
                 "type": "Point",
@@ -878,7 +956,7 @@
             "_id": "65bfc9b003038a91c359945c",
             "name": "Soon Lei Restoran",
             "shopType": "Restaurant",
-            "photo": "https://www.malaysiabest.my/wp-content/uploads/2018/03/16.jpg",
+            "photo": "no-photo.jpg",
             "verified": false,
             "user": "65b482fa09361e32c62904bd",
             "createdAt": "2024-02-04T17:30:24.793Z",
@@ -904,7 +982,7 @@
             "_id": "65bfc8c803038a91c3599454",
             "name": "Soon Lei Restaurant",
             "shopType": "Restaurant",
-            "photo": "https://www.malaysiabest.my/wp-content/uploads/2018/03/16.jpg",
+            "photo": "no-photo.jpg",
             "verified": false,
             "user": "65b482fa09361e32c62904bd",
             "createdAt": "2024-02-04T17:26:32.789Z",
@@ -930,7 +1008,7 @@
             "_id": "65bf25169b2650741c74a2fc",
             "name": "Quán ăn gia đình QUẠT MO",
             "shopType": "Restaurant",
-            "photo": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/326973371_1520493621779030_1647535355858512838_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=783fdb&_nc_ohc=NDE9exZDIZEAX9ISv7p&_nc_ht=scontent-sea1-1.xx&oh=00_AfA-jtZNFfclFiiPtfpkraUa4f2innoqxjKcw7NhKo7AYw&oe=65C44E96",
+            "photo": "no-photo.jpg",
             "verified": false,
             "user": "65b482fa09361e32c62904bd",
             "createdAt": "2024-02-04T05:48:06.826Z",
@@ -1528,7 +1606,7 @@
             "_id": "65b488fa266ec38358dbdf6e",
             "name": "Tiem Ca Phe",
             "shopType": "Other",
-            "photo": "https://imagev3.vietnamplus.vn/h600/Uploaded/2024/xtsqr/2023_05_01/vnp_tiem_ca_phe_thu_bao_1.JPG.webp",
+            "photo": "no-photo.jpg",
             "verified": false,
             "user": "65b482fa09361e32c62904bd",
             "createdAt": "2024-01-27T04:39:22.057Z",
