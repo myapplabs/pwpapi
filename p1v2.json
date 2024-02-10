@@ -1,8 +1,60 @@
 {
     "success": true,
-    "count": 78,
+    "count": 79,
     "pagination": {},
     "data": [
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    109.33675,
+                    -0.0199
+                ],
+                "formattedAddress": ", Pontianak, , ID",
+                "street": "",
+                "city": "Pontianak",
+                "state": "",
+                "zipcode": "",
+                "country": "ID"
+            },
+            "_id": "65c6eddad2b2b5a0f68e7b32",
+            "name": "Azeema Cafe",
+            "shopType": "Coffee Shop",
+            "photo": "https://pbs.twimg.com/media/GDPq0xTXcAACYU8?format=jpg&name=large",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-10T03:30:34.123Z",
+            "slug": "azeema-cafe",
+            "__v": 0,
+            "products": [],
+            "id": "65c6eddad2b2b5a0f68e7b32"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    106.84652,
+                    -6.47311
+                ],
+                "formattedAddress": "Pabuaran, Bogor, 16916, ID",
+                "street": "Pabuaran",
+                "city": "Bogor",
+                "state": "",
+                "zipcode": "16916",
+                "country": "ID"
+            },
+            "_id": "65c6eb9fd2b2b5a0f68e7b2e",
+            "name": "DURIAN BLACK BAWOR",
+            "shopType": "Other",
+            "photo": "https://lh3.googleusercontent.com/p/AF1QipOUjX2-sM9oK5S11CCxM8lpjgdAnen8wI0AC4gh=s680-w680-h510",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-10T03:21:03.743Z",
+            "slug": "durian-black-bawor",
+            "__v": 0,
+            "products": [],
+            "id": "65c6eb9fd2b2b5a0f68e7b2e"
+        },
         {
             "location": {
                 "type": "Point",
@@ -418,32 +470,6 @@
             "__v": 0,
             "products": [],
             "id": "65c02a09ce60a2af36a52178"
-        },
-        {
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    -77.03196,
-                    38.89037
-                ],
-                "formattedAddress": ", , , US",
-                "street": "",
-                "city": "",
-                "state": "",
-                "zipcode": "",
-                "country": "US"
-            },
-            "_id": "65c029c7ce60a2af36a52174",
-            "name": "가구다움",
-            "shopType": "Furniture Store",
-            "photo": "no-photo.jpg",
-            "verified": false,
-            "user": "65b482fa09361e32c62904bd",
-            "createdAt": "2024-02-05T00:20:23.053Z",
-            "slug": "",
-            "__v": 0,
-            "products": [],
-            "id": "65c029c7ce60a2af36a52174"
         },
         {
             "location": {
@@ -1112,7 +1138,7 @@
             "_id": "65bfd94b91b42017e3edb428",
             "name": "Trạm Xe Máy 1 Ái Tử",
             "shopType": "Motorcycle Dealer",
-            "photo": "no-photo.jpg",
+            "photo": "https://pbs.twimg.com/media/GFg3WLdbgAAe5dA?format=jpg&name=large",
             "verified": false,
             "user": "65b482fa09361e32c62904bd",
             "createdAt": "2024-02-04T18:36:59.161Z",
@@ -1658,7 +1684,7 @@
             "_id": "65b48b93266ec38358dbdf99",
             "name": "Prestige Cuts Barbershop",
             "shopType": "Other",
-            "photo": "no-photo.jpg",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipMxgteG6SliPflslKmE5FyuXtaPfGdkgaL_bAOg=w600-h650-p-k-no",
             "verified": false,
             "user": "65b482fa09361e32c62904bd",
             "createdAt": "2024-01-27T04:50:27.434Z",
