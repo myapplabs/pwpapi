@@ -1,8 +1,60 @@
 {
     "success": true,
-    "count": 79,
+    "count": 81,
     "pagination": {},
     "data": [
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    105.76521,
+                    10.29034
+                ],
+                "formattedAddress": "2 Đường Nguyễn Sinh Sắc, Sa Đéc, , VN",
+                "street": "2 Đường Nguyễn Sinh Sắc",
+                "city": "Sa Đéc",
+                "state": "",
+                "zipcode": "",
+                "country": "VN"
+            },
+            "_id": "65cad90dcfa3ae80b958f621",
+            "name": "Coffee Pi Network",
+            "shopType": "Coffee Shop",
+            "photo": "https://pbs.twimg.com/media/GGK5XLibAAAvnYe?format=jpg&name=medium",
+            "verified": true,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-13T02:50:53.861Z",
+            "slug": "coffee-pi-network",
+            "__v": 0,
+            "products": [],
+            "id": "65cad90dcfa3ae80b958f621"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    8.51113,
+                    11.991
+                ],
+                "formattedAddress": "Hausawa Rd, Kano, KN, NG",
+                "street": "Hausawa Rd",
+                "city": "Kano",
+                "state": "KN",
+                "zipcode": "",
+                "country": "NG"
+            },
+            "_id": "65cad5dfcfa3ae80b958f61d",
+            "name": "Nafagode Restaurant",
+            "shopType": "Restaurant",
+            "photo": "https://hotpen.net/wp-content/uploads/2022/10/330521E6-15C6-400D-8BA0-66852BA88427.jpeg",
+            "verified": true,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-13T02:37:19.200Z",
+            "slug": "nafagode-restaurant",
+            "__v": 0,
+            "products": [],
+            "id": "65cad5dfcfa3ae80b958f61d"
+        },
         {
             "location": {
                 "type": "Point",
