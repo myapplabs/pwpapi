@@ -1,33 +1,397 @@
 {
     "success": true,
-    "count": 83,
+    "count": 97,
     "pagination": {},
     "data": [
         {
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    39.71635,
-                    140.12736
+                    -98.81169,
+                    19.5188
                 ],
-                "formattedAddress": "4 Chome-15-9 Nakadori, Akita, 010-0001, Japan",
-                "street": "",
-                "city": "",
-                "state": "",
-                "zipcode": "",
-                "country": "US"
+                "formattedAddress": "16 Avenida Tepetitla, Texcoco de Mora, Edomex 56240, MX",
+                "street": "16 Avenida Tepetitla",
+                "city": "Texcoco de Mora",
+                "state": "Edomex",
+                "zipcode": "56240",
+                "country": "MX"
             },
-            "_id": "65cc0a7cbe90ee73f9c5a3a5",
-            "name": "Pi Cafe",
+            "_id": "65cc155cbe90ee73f9c5a3f0",
+            "name": "Café Pi",
             "shopType": "Coffee Shop",
             "photo": "no-photo.jpg",
             "verified": false,
             "user": "65b482fa09361e32c62904bd",
-            "createdAt": "2024-02-14T00:34:04.702Z",
-            "slug": "pi-cafe",
+            "createdAt": "2024-02-14T01:20:28.506Z",
+            "slug": "cafe-pi",
             "__v": 0,
             "products": [],
-            "id": "65cc0a7cbe90ee73f9c5a3a5"
+            "id": "65cc155cbe90ee73f9c5a3f0"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -78.46541,
+                    -0.29429
+                ],
+                "formattedAddress": ", Conocoto, P, EC",
+                "street": "",
+                "city": "Conocoto",
+                "state": "P",
+                "zipcode": "",
+                "country": "EC"
+            },
+            "_id": "65cc14a7be90ee73f9c5a3ec",
+            "name": "π Papitas Ink",
+            "shopType": "Restaurant",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-14T01:17:27.909Z",
+            "slug": "p-papitas-ink",
+            "__v": 0,
+            "products": [],
+            "id": "65cc14a7be90ee73f9c5a3ec"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -71.65897,
+                    10.63337
+                ],
+                "formattedAddress": "Avenida 54A2, Maracaibo, ZU, VE",
+                "street": "Avenida 54A2",
+                "city": "Maracaibo",
+                "state": "ZU",
+                "zipcode": "",
+                "country": "VE"
+            },
+            "_id": "65cc13eabe90ee73f9c5a3e8",
+            "name": "Pi Burger",
+            "shopType": "Restaurant",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-14T01:14:18.534Z",
+            "slug": "pi-burger",
+            "__v": 0,
+            "products": [],
+            "id": "65cc13eabe90ee73f9c5a3e8"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -71.63935,
+                    10.55866
+                ],
+                "formattedAddress": "Avenida 42, Maracaibo, ZU, VE",
+                "street": "Avenida 42",
+                "city": "Maracaibo",
+                "state": "ZU",
+                "zipcode": "",
+                "country": "VE"
+            },
+            "_id": "65cc13b9be90ee73f9c5a3e4",
+            "name": "Pi 3,14 Coffee & Lounge",
+            "shopType": "Coffee Shop",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-14T01:13:29.714Z",
+            "slug": "pi-314-coffee-and-lounge",
+            "__v": 0,
+            "products": [],
+            "id": "65cc13b9be90ee73f9c5a3e4"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -99.04275,
+                    19.34649
+                ],
+                "formattedAddress": "49 Calle 47, Iztapalapa, CDMX 09290, MX",
+                "street": "49 Calle 47",
+                "city": "Iztapalapa",
+                "state": "CDMX",
+                "zipcode": "09290",
+                "country": "MX"
+            },
+            "_id": "65cc135bbe90ee73f9c5a3e0",
+            "name": "Taquicafetería Pi",
+            "shopType": "Restaurant",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-14T01:11:55.230Z",
+            "slug": "taquicafeteria-pi",
+            "__v": 0,
+            "products": [],
+            "id": "65cc135bbe90ee73f9c5a3e0"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -87.07451,
+                    20.63968
+                ],
+                "formattedAddress": "Carretera Federal, Playa del Carmen, QRoo 77712, MX",
+                "street": "Carretera Federal",
+                "city": "Playa del Carmen",
+                "state": "QRoo",
+                "zipcode": "77712",
+                "country": "MX"
+            },
+            "_id": "65cc1329be90ee73f9c5a3dc",
+            "name": "Sandwicheria Pi 3.14",
+            "shopType": "Restaurant",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-14T01:11:05.753Z",
+            "slug": "sandwicheria-pi-3.14",
+            "__v": 0,
+            "products": [],
+            "id": "65cc1329be90ee73f9c5a3dc"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    8.89234,
+                    9.93026
+                ],
+                "formattedAddress": "Buzu St, Jos, PL, NG",
+                "street": "Buzu St",
+                "city": "Jos",
+                "state": "PL",
+                "zipcode": "",
+                "country": "NG"
+            },
+            "_id": "65cc12c3be90ee73f9c5a3d8",
+            "name": "Arewa pi mega mall",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-14T01:09:23.390Z",
+            "slug": "arewa-pi-mega-mall",
+            "__v": 0,
+            "products": [],
+            "id": "65cc12c3be90ee73f9c5a3d8"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -101.65452,
+                    21.19289
+                ],
+                "formattedAddress": "566j Calle Bangladesh, León, Gto 37209, MX",
+                "street": "566j Calle Bangladesh",
+                "city": "León",
+                "state": "Gto",
+                "zipcode": "37209",
+                "country": "MX"
+            },
+            "_id": "65cc11e0be90ee73f9c5a3d4",
+            "name": "Food pi",
+            "shopType": "Restaurant",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-14T01:05:36.689Z",
+            "slug": "food-pi",
+            "__v": 0,
+            "products": [],
+            "id": "65cc11e0be90ee73f9c5a3d4"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    100.26613,
+                    16.82122
+                ],
+                "formattedAddress": ", Phitsanulok, , TH",
+                "street": "",
+                "city": "Phitsanulok",
+                "state": "",
+                "zipcode": "",
+                "country": "TH"
+            },
+            "_id": "65cc119cbe90ee73f9c5a3d0",
+            "name": "Pi : พาย",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-14T01:04:28.058Z",
+            "slug": "pi-:",
+            "__v": 0,
+            "products": [],
+            "id": "65cc119cbe90ee73f9c5a3d0"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    101.65755,
+                    17.89635
+                ],
+                "formattedAddress": "Chai Kong Road, Chiang Khan, 42110, TH",
+                "street": "Chai Kong Road",
+                "city": "Chiang Khan",
+                "state": "",
+                "zipcode": "42110",
+                "country": "TH"
+            },
+            "_id": "65cc1150be90ee73f9c5a3cc",
+            "name": "PI HOUSE CHIANGKHAN",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-14T01:03:12.836Z",
+            "slug": "pi-house-chiangkhan",
+            "__v": 0,
+            "products": [],
+            "id": "65cc1150be90ee73f9c5a3cc"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    126.99989,
+                    37.55886
+                ],
+                "formattedAddress": ", Seoul, , KR",
+                "street": "",
+                "city": "Seoul",
+                "state": "",
+                "zipcode": "",
+                "country": "KR"
+            },
+            "_id": "65cc1028be90ee73f9c5a3c4",
+            "name": "PI:K COFFEE",
+            "shopType": "Coffee Shop",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-14T00:58:16.592Z",
+            "slug": "pi:k-coffee",
+            "__v": 0,
+            "products": [],
+            "id": "65cc1028be90ee73f9c5a3c4"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    126.99989,
+                    37.55886
+                ],
+                "formattedAddress": ", Seoul, , KR",
+                "street": "",
+                "city": "Seoul",
+                "state": "",
+                "zipcode": "",
+                "country": "KR"
+            },
+            "_id": "65cc1005be90ee73f9c5a3c0",
+            "name": "Pi",
+            "shopType": "Coffee Shop",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-14T00:57:41.639Z",
+            "slug": "pi",
+            "__v": 0,
+            "products": [],
+            "id": "65cc1005be90ee73f9c5a3c0"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    127.14439,
+                    35.827
+                ],
+                "formattedAddress": ", Jeonju, , KR",
+                "street": "",
+                "city": "Jeonju",
+                "state": "",
+                "zipcode": "",
+                "country": "KR"
+            },
+            "_id": "65cc0f7bbe90ee73f9c5a3b8",
+            "name": "pi스쿨웨어",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-14T00:55:23.776Z",
+            "slug": "pi",
+            "__v": 0,
+            "products": [],
+            "id": "65cc0f7bbe90ee73f9c5a3b8"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    129.07848,
+                    35.17793
+                ],
+                "formattedAddress": ", Busan, , KR",
+                "street": "",
+                "city": "Busan",
+                "state": "",
+                "zipcode": "",
+                "country": "KR"
+            },
+            "_id": "65cc0f51be90ee73f9c5a3b4",
+            "name": "pi학생복",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-14T00:54:41.611Z",
+            "slug": "pi",
+            "__v": 0,
+            "products": [],
+            "id": "65cc0f51be90ee73f9c5a3b4"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    140.11073,
+                    39.72819
+                ],
+                "formattedAddress": ", Akita-shi, 05 010-0914, JP",
+                "street": "",
+                "city": "Akita-shi",
+                "state": "05",
+                "zipcode": "010-0914",
+                "country": "JP"
+            },
+            "_id": "65cc0e4cbe90ee73f9c5a3ac",
+            "name": "麺屋 富蔵",
+            "shopType": "Restaurant",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-14T00:50:20.287Z",
+            "slug": "",
+            "__v": 0,
+            "products": [],
+            "id": "65cc0e4cbe90ee73f9c5a3ac"
         },
         {
             "location": {
