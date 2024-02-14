@@ -1,8 +1,60 @@
 {
     "success": true,
-    "count": 81,
+    "count": 83,
     "pagination": {},
     "data": [
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    140.12736,
+                    39.71635
+                ],
+                "formattedAddress": "4 Chome-15-9 Nakadori, Akita, 010-0001, Japan",
+                "street": "",
+                "city": "",
+                "state": "",
+                "zipcode": "",
+                "country": "US"
+            },
+            "_id": "65cc0a7cbe90ee73f9c5a3a5",
+            "name": "Pi Cafe",
+            "shopType": "Coffee Shop",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-14T00:34:04.702Z",
+            "slug": "pi-cafe",
+            "__v": 0,
+            "products": [],
+            "id": "65cc0a7cbe90ee73f9c5a3a5"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    105.73752,
+                    21.17159
+                ],
+                "formattedAddress": "1 QL.23, Huyện Mê Linh, 12906, VN",
+                "street": "1 QL.23",
+                "city": "Huyện Mê Linh",
+                "state": "",
+                "zipcode": "12906",
+                "country": "VN"
+            },
+            "_id": "65cbec80954cdeff538a0ea2",
+            "name": "Pi Shop",
+            "shopType": "Other",
+            "photo": "no-photo.jpg",
+            "verified": false,
+            "user": "65b482fa09361e32c62904bd",
+            "createdAt": "2024-02-13T22:26:08.688Z",
+            "slug": "pi-shop",
+            "__v": 0,
+            "products": [],
+            "id": "65cbec80954cdeff538a0ea2"
+        },
         {
             "location": {
                 "type": "Point",
